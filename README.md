@@ -10,7 +10,7 @@ To use it add it to [your crontab](http://corntab.com/).
 To setup this script, clone the repo to your raspberry pi:
 
 ```
-git clone https://github.com/fliphess/raspberry_webcam_imager.git /home/pi/webcam
+git clone https://github.com/evahess/raspberry_webcam_imager.git /home/pi/webcam
 ```
 
 Then make the script executable:
