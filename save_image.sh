@@ -1,7 +1,7 @@
 #!/bin/bash
-# This script saves a photo to disk using a logitech c270
+# This script saves a photo to disk using a Logitech C270
 #
-# March 2018 - Eva Hess <eva@evahess.com>
+# September 2019 - Eva Hess <mail@evahess.com>
 PATH="/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/sbin:/sbin:/bin"
 
 
